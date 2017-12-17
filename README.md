@@ -1,3 +1,5 @@
+# Udacity's Feed Reader Testing Project
+
 This project showcases a demonstration of tests through a Jasmine framework. It is a web-based application that reads RSS feeds. In this application you will see mutlitple test suites run by the application.
 
 
